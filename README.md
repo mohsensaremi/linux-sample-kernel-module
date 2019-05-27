@@ -19,7 +19,7 @@ after making required files, you can run module with:
 > sudo insmod lkm_example.ko
 ```
 <br/>
-to check the module output use run:
+to check the module output, run:
 
 ```
 > sudo dmesg
