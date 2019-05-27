@@ -31,6 +31,9 @@ To remove the module, run:
 sudo rmmod lkm_example
 ```
 
+## TEST
+this program tested on ubuntu 18.04 and worked properly
+
 ### screenshots
 
 ![Alt text](screenshots/1.png?raw=true)
