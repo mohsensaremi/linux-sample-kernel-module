@@ -38,6 +38,8 @@ this program tested on ubuntu 18.04 and worked properly
 
 ![Alt text](screenshots/1.png?raw=true)
 <br/><br/>
+after running `sudo insmod lkm_example.ko`:
 ![Alt text](screenshots/2.png?raw=true)
 <br/><br/>
+after running `sudo rmmod lkm_example`:
 ![Alt text](screenshots/3.png?raw=true)
